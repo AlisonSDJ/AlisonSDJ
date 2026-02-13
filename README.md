@@ -10,7 +10,7 @@ Profissional com experiência em planejamento, implantação e manutenção de i
 
 ## 🎯 Áreas de Atuação
 
-- Gestão de Infraestrutura de TI (Manutenção, Backup, Antivírus e Monitoramento de e Inventário de Ativos)
+- Gestão de Infraestrutura de TI (Manutenção, Backup, Antivírus, Monitoramento de Inventário e Ativos)
 - Cabeamento Estruturado
 - Redes Corporativas
 - Segurança Eletrônica(CFTV e Central de Alarme)
