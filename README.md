@@ -103,6 +103,7 @@ Projeto de implantação de CFTV.
 - Impressoras térmicas
 - Leitores de código de barras
 - Consulta preço
+- Videowall
 
 **Gestão**
 - Planejamento de projetos
