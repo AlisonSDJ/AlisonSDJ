@@ -25,7 +25,7 @@ Profissional com experiência em planejamento, implantação e manutenção de i
 
 ## 🏗 Projetos em Destaque
 
-### 🔹 Infraestrutura e Gestão - Empresa X
+### 🔹 Infraestrutura e Gestão - Empresa AA
 
 Implantação completa de infraestrutura de TI para loja com múltiplos PDVs.
 
@@ -41,7 +41,7 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs.
 
 ---
 
-### 🔹 CFTV - Empresa YY
+### 🔹 CFTV - Empresa BB
 
 Projeto de implantação de CFTV.
 
@@ -53,7 +53,7 @@ Projeto de implantação de CFTV.
 
 ---
 
-### 🔹 CFTV - Empresa ZZ
+### 🔹 CFTV - Empresa CC
 
 Projeto de implantação de CFTV.
 
@@ -65,7 +65,7 @@ Projeto de implantação de CFTV.
 
 ---
 
-### 🔹 CFTV - Empresa AA
+### 🔹 CFTV - Residência DD
 
 Projeto de implantação de CFTV.
 
