@@ -1,4 +1,4 @@
-EM CONSTRUÇÃO....Breve atualizarei. Colocarei fotos, e mais detalhes dos projetos que documentei. 
+EM CONSTRUÇÃO....Breve atualizarei. Colocarei fotos e mais detalhes dos projetos que documentei. 
 
 # 👨‍💻 Alison Souza
 
