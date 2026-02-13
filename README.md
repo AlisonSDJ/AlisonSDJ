@@ -51,7 +51,7 @@ Projeto de implantação de CFTV.
 
 - Levantamento de requisitos
 - Instalação do Rack
-- Instalação das cãmeras e DVR
+- Instalação das câmeras e DVR
 
 ➡️ [Acessar projeto completo](link-do-repositorio)
 
@@ -63,7 +63,7 @@ Projeto de implantação de CFTV.
 
 - Levantamento de requisitos
 - Instalação do Rack
-- Instalação das cãmeras e DVR
+- Instalação das câmeras e DVR
 
 ➡️ [Acessar projeto completo](link-do-repositorio)
 
@@ -75,7 +75,7 @@ Projeto de implantação de CFTV.
 
 - Levantamento de requisitos
 - Instalação do Rack
-- Instalação das cãmeras e DVR
+- Instalação das câmeras e DVR
 
 ➡️ [Acessar projeto completo](link-do-repositorio)
 
