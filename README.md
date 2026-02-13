@@ -32,10 +32,14 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs.
 - Cabeamento estruturado Cat5-e
 - 2 Rack 8U organizados e identificados
 - Sistema CFTV 32 canais
-- 8 PDV's completos(Balança, Impressora Não Fiscal, Leitor de Código de Barra, Pinpad, Nobreak, etc.) 
-- Videowall
-- Implantação do ERP
-- Treinamento da equipe(Comercial, Entrada e Saída de Notas, Financeiro, Vendas, Gestão)
+- 8 PDV's completos(Balança, Impressora Não Fiscal, Leitor de Código de Barra, Pinpad, Nobreak, etc.)
+- 9 Retaguardas
+- 2 Impressoras
+- 2 Impressoras de Etiquetas
+- Videowall(3 TV's)
+- Implantação do ERP(VR Software)
+- Treinamento da equipe(Comercial, Entrada e Saída de Notas, Financeiro, Vendas, Administrativo)
+- Implantação de Cartão de Crédito(Marca própria)
 
 ➡️ [Acessar projeto completo](link-do-repositorio)
 
