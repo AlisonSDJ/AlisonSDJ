@@ -27,7 +27,7 @@ Profissional com experiência em planejamento, implantação e manutenção de i
 
 ### 🔹 Infraestrutura e Gestão - Empresa AA
 
-Implantação completa de infraestrutura de TI para loja com múltiplos PDVs.
+Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e Retaguardas.
 
 - Cabeamento estruturado
 - Wireless corporativo e visitantes
