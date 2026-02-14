@@ -37,6 +37,7 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e R
 - 9 Retaguardas
 - 2 Impressoras
 - 2 Impressoras de Etiquetas
+- 2 Access Point
 - Relógio de Ponto
 - Videowall(3 TV's)
 - Implantação do ERP(VR Software)
