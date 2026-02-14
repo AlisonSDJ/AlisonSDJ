@@ -44,7 +44,7 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e R
 - Treinamento da equipe(Comercial, Entrada e Saída de Notas, Financeiro, Vendas, Administrativo)
 - Implantação de Cartão de Crédito(Marca própria)
 
-➡️ [Acessar projeto completo](link-do-repositorio)
+➡️ [Acessar projeto completo](https://github.com/AlisonSDJ/Infraestrutura-e-Gest-o---Empresa-AA)
 
 ---
 
