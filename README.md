@@ -11,10 +11,10 @@ Profissional com experiência em planejamento, implantação e manutenção de i
 ## 🎯 Áreas de Atuação
 
 - Gestão de Infraestrutura de TI (Manutenção, Backup, Antivírus, Monitoramento de Ativos e Inventário)
-- Cabeamento Estruturado
-- Redes Corporativas
+- Redes(Cabeamento Estruturado, Wireless Corportivo e Visitantes)
 - Segurança Eletrônica(CFTV e Central de Alarme)
 - Automação Comercial (PDV, Balanças, Impressoras Não Fiscais, Consulta Preço e Retaguardas)
+- Telefonia VoIP
 - Videowall
 - Implantação e Suporte ERP
 - Treinamento de Usuários
