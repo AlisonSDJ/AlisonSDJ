@@ -148,17 +148,8 @@ Nos repositórios você encontrará:
 - Padronização de infraestrutura
 - Melhoria na estabilidade de sistemas
 - Implantação de lojas dentro do cronograma
+- Padronização de processos e rotinas operacionais das empresas
 - Redução de chamados técnicos
-
----
-
-## 📚 Repositórios Técnicos
-
-- Modelo de Documentação de Infraestrutura
-- Checklist Implantação ERP
-- Procedimento Backup Empresarial
-- Padrão Organização de Rack
-- Inventário de Ativos de TI
 
 ---
 
