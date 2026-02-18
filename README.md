@@ -53,10 +53,11 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e R
 Nesse projeto realizei a instalação de CFTV em um supermercado, efetuei a troca dos computadores utilizados como caixas e também o servidor.
 
 - Levantamento de requisitos
-- Instalação dos caixas
-- Instalação do servidor
+- 4 caixas
+- 1 servidor
 - Instalação do Rack
-- Instalação das câmeras e DVR
+- Instalação de 16 câmeras analógicas e 2 câmeras IP.
+- Instalação do DVR
 
 ➡️ [Acessar projeto completo](link-do-repositorio)
 
