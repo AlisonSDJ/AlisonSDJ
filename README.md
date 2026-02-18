@@ -48,11 +48,13 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e R
 
 ---
 
-### 🔹 CFTV - Empresa BB
+### 🔹 CFTV, PDV e Servidor - Empresa BB
 
-Projeto de implantação de CFTV.
+Nesse projeto realizei a instalação de CFTV em um supermercado, efetuei a troca dos computadores utilizados como caixas e também o servidor.
 
 - Levantamento de requisitos
+- Instalação dos caixas
+- Instalação do servidor
 - Instalação do Rack
 - Instalação das câmeras e DVR
 
