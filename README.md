@@ -48,9 +48,9 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e R
 
 ---
 
-### 🔹 CFTV, PDV e Servidor - Empresa BB
+### 🔹 CFTV, PDV, Servidor e Redes - Empresa BB
 
-Nesse projeto realizei a instalação de CFTV, efetuei a troca dos computadores utilizados como caixas e também o servidor, configurei um roteador da Mikrotik para gerenciar toda a rede, instalei um AP e também um consulta preço.
+Nesse projeto realizei a instalação de CFTV, efetuei a troca dos computadores utilizados como caixas e também o servidor, configurei um roteador da Mikrotik para atuar na gestão da rede, instalei um AP e também um consulta preço.
 
 - Levantamento de requisitos
 - 4 caixas
@@ -58,6 +58,8 @@ Nesse projeto realizei a instalação de CFTV, efetuei a troca dos computadores 
 - Instalação do Rack
 - Instalação de 16 câmeras analógicas e 2 câmeras IP.
 - Instalação do DVR
+- Instalação de um AP
+- Instalação de uma RB.
 
 ➡️ [Acessar projeto completo](link-do-repositorio)
 
