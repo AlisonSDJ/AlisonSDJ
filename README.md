@@ -50,7 +50,7 @@ Implantação completa de infraestrutura de TI para loja com múltiplos PDVs e R
 
 ### 🔹 CFTV, PDV e Servidor - Empresa BB
 
-Nesse projeto realizei a instalação de CFTV em um supermercado, efetuei a troca dos computadores utilizados como caixas e também o servidor.
+Nesse projeto realizei a instalação de CFTV, efetuei a troca dos computadores utilizados como caixas e também o servidor, configurei um roteador da Mikrotik para gerenciar toda a rede, instalei um AP e também um consulta preço.
 
 - Levantamento de requisitos
 - 4 caixas
